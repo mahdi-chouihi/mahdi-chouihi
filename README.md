@@ -11,9 +11,9 @@ I'm a software engineering graduate passionate about solving real-world problems
 
 Currently open to **internship and job opportunities** in:
 
-- AI & Machine Learning
-- Web Development
-- ERP Systems & Data Analytics
+- AI & Machine Learning  
+- Web Development  
+- ERP Systems & Data Analytics  
 - Chatbot & NLP Applications
 
 ---
@@ -27,9 +27,15 @@ Currently open to **internship and job opportunities** in:
 
 ---
 
+## 🎓 Certifications
+
+- 📘 [**IBM SkillsBuild — Big Data Engineer Certificate**](https://www.credly.com/badges/8f551717-5a94-416d-a987-a077c4e803e5/public_url)  
+- 🧪 **ISTQB Foundation Level** — Software Testing *(in preparation)*
+
+---
+
 ## 📫 Let's Connect
 
 - 📧 chouihimahdi7@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/mahdi-chouihi)  
 - 💻 [GitHub Portfolio](https://github.com/mahdi-chouihi)
-
