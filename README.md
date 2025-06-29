@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm Mahdi Chouihi
 
-<!--
-**mahdi-chouihi/mahdi-chouihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Computer Science Graduate | 💻 Software Engineering & AI Enthusiast  
+📍 Based in Tunisia | 🌍 Open to remote & international opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a software engineering graduate passionate about solving real-world problems through technology. I enjoy building intelligent systems, from ERP-integrated chatbots to data-driven web applications.
+
+Currently open to **internship and job opportunities** in:
+
+- AI & Machine Learning
+- Web Development
+- ERP Systems & Data Analytics
+- Chatbot & NLP Applications
+
+---
+
+## 🛠️ Technologies I Work With
+
+- **Languages:** Python, Java, JavaScript, SQL  
+- **Frameworks & Tools:** Rasa, Flask, Angular, React, Power BI  
+- **Databases:** MySQL, SQL Server  
+- **Cloud & DevOps:** Microsoft Azure, Docker
+
+---
+
+## 📫 Let's Connect
+
+- 📧 chouihimahdi7@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/mahdi-chouihi)  
+- 💻 [GitHub Portfolio](https://github.com/mahdi-chouihi)
+
