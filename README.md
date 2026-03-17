@@ -66,9 +66,18 @@ Currently open to **internship and job opportunities** in:
 - 🧪 **ISTQB Foundation Level** — Software Testing *(in preparation)*
 
 ---
+## 🌍 Languages
 
+- 🇫🇷 French — Fluent
+- 🇬🇧 English — Fluent
+- 🇹🇳 Arabic — Native
+
+---
 ## 📫 Let's Connect
 
 - 📧 chouihimahdi7@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/mahdichouihi)  
 - 💻 [GitHub Portfolio](https://github.com/mahdi-chouihi)
+---
+
+⭐ Feel free to explore my repositories and reach out for collaborations or opportunities!
