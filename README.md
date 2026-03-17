@@ -24,8 +24,7 @@ Currently open to **internship and job opportunities** in:
 ## 🎓 Certifications
 
 - 📘 [**IBM SkillsBuild — Big Data Engineer Certificate**](https://www.credly.com/badges/8f551717-5a94-416d-a987-a077c4e803e5/public_url)  
-- 📘 [**CCNA: Introduction to Networks Certificate**]
-(https://www.credly.com/badges/72efa1c4-59ce-451b-a357-90f91012f566/public_url)
+- 🌐 [**CCNA: Introduction to Networks Certificate**](https://www.credly.com/badges/72efa1c4-59ce-451b-a357-90f91012f566/public_url)
 - 🧪 **ISTQB Foundation Level** — Software Testing *(in preparation)*
 
 ---
