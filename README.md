@@ -68,9 +68,9 @@ Currently open to **internship and job opportunities** in:
 ---
 ## 🌍 Languages
 
-**🇫🇷 French** · Fluent  
-**🇬🇧 English** · Fluent  
-**🇹🇳 Arabic** · Native
+- 🇫🇷 **French** — Full Professional Proficiency  
+- 🇬🇧 **English** — Full Professional Proficiency  
+- 🇹🇳 **Arabic** — Native or Bilingual Proficiency
 ---
 ## 📫 Let's Connect
 
