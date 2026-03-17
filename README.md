@@ -31,5 +31,5 @@ Currently open to **internship and job opportunities** in:
 ## 📫 Let's Connect
 
 - 📧 chouihimahdi7@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/mahdi-chouihi)  
+- 🔗 [LinkedIn](https://linkedin.com/in/mahdichouihi)  
 - 💻 [GitHub Portfolio](https://github.com/mahdi-chouihi)
