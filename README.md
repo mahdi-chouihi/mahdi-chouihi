@@ -68,11 +68,9 @@ Currently open to **internship and job opportunities** in:
 ---
 ## 🌍 Languages
 
-## 🌍 Languages
-
-**🇫🇷 French** · Fluent  
-**🇬🇧 English** · Fluent  
-**🇹🇳 Arabic** · Native
+![French](https://img.shields.io/badge/French-Fluent-0055A4?style=for-the-badge&logo=duolingo&logoColor=white)
+![English](https://img.shields.io/badge/English-Fluent-00247D?style=for-the-badge&logo=duolingo&logoColor=white)
+![Arabic](https://img.shields.io/badge/Arabic-Native-006647?style=for-the-badge&logo=duolingo&logoColor=white)
 
 ---
 ## 📫 Let's Connect
